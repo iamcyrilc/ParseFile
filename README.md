@@ -1,2 +1,2 @@
 # ParseFile
-Parse HTML file
+Parse HTML file from HelpSave and create documents.
